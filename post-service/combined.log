@@ -1,0 +1,690 @@
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:22:07.518Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:22:07.570Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:44:22.221Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:44:22.224Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:44:38.314Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:44:38.316Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:45:08.959Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:45:08.961Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:46:17.807Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:46:17.883Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:46:24.474Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:46:24.476Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:47:17.787Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:47:17.790Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:48:55.081Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:48:55.229Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:50:05.409Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:50:05.534Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:50:27.733Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:50:27.843Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:50:34.106Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:50:34.209Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:50:46.650Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:50:46.960Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:50:51.319Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:50:51.408Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:51:05.904Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:51:06.041Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:52:19.243Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:52:19.344Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:52:27.795Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:52:27.891Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:52:33.073Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:52:33.184Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:52:43.223Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:52:43.365Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:53:03.039Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:53:03.176Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:54:09.644Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:54:09.645Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:54:30.821Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:54:30.822Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:55:49.857Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:55:49.938Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:56:33.073Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:56:33.075Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T17:56:33.079Z"}
+{"0":"\"","1":"c","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"o","20":"d","3":"n","4":"t","5":"e","6":"n","7":"t","8":"\"","9":" ","level":"warn","message":"Validation error","service":"post-service","timestamp":"2025-02-19T17:56:33.095Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:57:30.760Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:57:30.763Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T17:57:30.767Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T17:57:30.774Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T17:58:41.655Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T17:58:41.748Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T17:59:39.497Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T17:59:39.498Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T17:59:39.501Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T17:59:39.516Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:00:27.413Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:00:27.487Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:00:40.549Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:00:40.551Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:00:40.555Z"}
+{"level":"error","message":"Error creating post Cannot read properties of undefined (reading 'hooks')","service":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'hooks')\n    at new Schema.post (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\mongoose\\lib\\schema.js:1978:10)\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)","timestamp":"2025-02-19T18:00:40.571Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:01:18.857Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:01:18.944Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:01:23.232Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:01:23.233Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:01:23.238Z"}
+{"level":"error","message":"Error creating post Cannot read properties of undefined (reading 'hooks')","service":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'hooks')\n    at new Schema.post (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\mongoose\\lib\\schema.js:1978:10)\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)","timestamp":"2025-02-19T18:01:23.253Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:04:20.014Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:04:20.094Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:04:32.143Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:04:32.228Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:04:43.431Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:04:43.434Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:04:43.439Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:04:43.458Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:06:09.891Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:06:10.001Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:06:10.153Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:06:10.155Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:06:10.158Z"}
+{"level":"error","message":"Error creating post post is not a constructor","service":"post-service","stack":"TypeError: post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:06:10.176Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:07:26.926Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:07:27.022Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:07:52.822Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:07:52.916Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:07:53.300Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:07:53.302Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:07:53.304Z"}
+{"level":"error","message":"Error creating post post is not defined","service":"post-service","stack":"ReferenceError: post is not defined\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:07:53.318Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:08:15.905Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:08:15.991Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:08:18.207Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:08:18.208Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:08:18.211Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:08:18.225Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:08:38.835Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:08:38.923Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:09:26.310Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:09:26.319Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:09:26.345Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:09:26.431Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:09:55.806Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:09:55.842Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:10:41.342Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:10:41.343Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:10:41.345Z"}
+{"level":"error","message":"Error creating post Post is not a constructor","service":"post-service","stack":"TypeError: Post is not a constructor\n    at createPost (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\controllers\\post-controller.js:21:21)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticateRequest (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\src\\middleware\\authMiddleware.js:15:3)\n    at Layer.handle [as handle_request] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\post-service\\node_modules\\express\\lib\\router\\layer.js:95:5)","timestamp":"2025-02-19T18:10:41.351Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:12:17.618Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:12:17.654Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:12:55.760Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:12:55.763Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:12:55.766Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b61f2737fe1fbf7290ef15","content":"new post created","createdAt":"2025-02-19T18:12:55.805Z","mediaIds":[],"updatedAt":"2025-02-19T18:12:55.805Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b61f2737fe1fbf7290ef15","content":"new post created","createdAt":"2025-02-19T18:12:55.805Z","mediaIds":[],"updatedAt":"2025-02-19T18:12:55.805Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-19T18:12:55.885Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:13:49.617Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:13:49.618Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:13:49.622Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b61f5d37fe1fbf7290ef17","content":"new post created","createdAt":"2025-02-19T18:13:49.626Z","mediaIds":[],"updatedAt":"2025-02-19T18:13:49.626Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b61f5d37fe1fbf7290ef17","content":"new post created","createdAt":"2025-02-19T18:13:49.626Z","mediaIds":[],"updatedAt":"2025-02-19T18:13:49.626Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-19T18:13:49.637Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:14:04.166Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:14:04.243Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:14:08.796Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:14:08.798Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:14:08.801Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b61f703c0094ed705c9105","content":"new post created","createdAt":"2025-02-19T18:14:08.834Z","mediaIds":[],"updatedAt":"2025-02-19T18:14:08.834Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b61f703c0094ed705c9105","content":"new post created","createdAt":"2025-02-19T18:14:08.834Z","mediaIds":[],"updatedAt":"2025-02-19T18:14:08.834Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-19T18:14:08.864Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-19T18:15:02.043Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-19T18:15:02.114Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-19T18:15:07.338Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-19T18:15:07.341Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-19T18:15:07.345Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b61fabcc88bb495f024ed1","content":"new post created","createdAt":"2025-02-19T18:15:07.400Z","mediaIds":[],"updatedAt":"2025-02-19T18:15:07.400Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b61fabcc88bb495f024ed1","content":"new post created","createdAt":"2025-02-19T18:15:07.400Z","mediaIds":[],"updatedAt":"2025-02-19T18:15:07.400Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-19T18:15:07.445Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T07:45:17.913Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T07:45:17.947Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T07:46:43.153Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T07:46:43.433Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:47:32.519Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:47:32.520Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T07:47:54.867Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:47:54.868Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T07:47:54.870Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6de2aa82446b681f3b814","content":"new post created 1","createdAt":"2025-02-20T07:47:54.882Z","mediaIds":[],"updatedAt":"2025-02-20T07:47:54.882Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6de2aa82446b681f3b814","content":"new post created 1","createdAt":"2025-02-20T07:47:54.882Z","mediaIds":[],"updatedAt":"2025-02-20T07:47:54.882Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T07:47:54.898Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:47:58.979Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:47:58.980Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T07:48:16.351Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:48:16.352Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T07:48:16.353Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6de40a82446b681f3b816","content":"new post created by shubham","createdAt":"2025-02-20T07:48:16.355Z","mediaIds":[],"updatedAt":"2025-02-20T07:48:16.355Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6de40a82446b681f3b816","content":"new post created by shubham","createdAt":"2025-02-20T07:48:16.355Z","mediaIds":[],"updatedAt":"2025-02-20T07:48:16.355Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T07:48:16.361Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:48:19.631Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:48:19.631Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:50:02.792Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:50:02.793Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:51:33.185Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:51:33.186Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:52:26.145Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:52:26.146Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T07:54:50.271Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T07:54:50.353Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T07:55:10.749Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T07:55:10.751Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T08:52:17.596Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:17.597Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T08:52:17.598Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6ed41c1bb4b906c009b2b","content":"new post created by vibhu","createdAt":"2025-02-20T08:52:17.610Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:17.610Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6ed41c1bb4b906c009b2b","content":"new post created by vibhu","createdAt":"2025-02-20T08:52:17.610Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:17.610Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T08:52:17.625Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:52:25.307Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:25.309Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T08:52:42.204Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:42.205Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T08:52:42.206Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6ed5ac1bb4b906c009b2f","content":"new post created by vibhu1","createdAt":"2025-02-20T08:52:42.207Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:42.207Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6ed5ac1bb4b906c009b2f","content":"new post created by vibhu1","createdAt":"2025-02-20T08:52:42.207Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:42.207Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T08:52:42.211Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:52:48.322Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:48.323Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:52:54.103Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:54.104Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:52:55.467Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:55.467Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:52:56.658Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:56.658Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T08:52:59.901Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:52:59.902Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T08:52:59.902Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6ed6bc1bb4b906c009b31","content":"new post created by vibhu1","createdAt":"2025-02-20T08:52:59.905Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:59.905Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6ed6bc1bb4b906c009b31","content":"new post created by vibhu1","createdAt":"2025-02-20T08:52:59.905Z","mediaIds":[],"updatedAt":"2025-02-20T08:52:59.905Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T08:52:59.912Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:03.626Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:03.627Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:08.590Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:08.591Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:09.797Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:09.797Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:14.552Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:14.553Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:20.844Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:20.844Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:22.131Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:22.132Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T08:53:23.008Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T08:53:23.009Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:54:28.378Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:54:28.426Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:54:56.841Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:54:56.890Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:56:18.861Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:56:19.111Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:56:36.493Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:56:36.580Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:56:43.948Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:56:44.065Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:57:34.728Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:57:34.768Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:57:45.986Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:57:46.019Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:58:21.884Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:58:21.929Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:58:44.058Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:58:44.103Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:59:37.643Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:59:37.682Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:59:47.726Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:59:47.767Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T08:59:57.004Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T08:59:57.076Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:00:03.657Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:00:03.795Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:06.279Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:06.281Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:15.982Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:15.984Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:36.405Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:36.407Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:38.562Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:38.565Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:43.499Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:43.501Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:51.001Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:51.001Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:52.249Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:52.250Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:53.484Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:53.485Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:54.705Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:54.705Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:00:58.733Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:00:58.733Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T09:01:15.997Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:01:15.998Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T09:01:15.999Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b6ef5cc086b0667aebc019","content":"new post created by shashank","createdAt":"2025-02-20T09:01:16.014Z","mediaIds":[],"updatedAt":"2025-02-20T09:01:16.014Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b6ef5cc086b0667aebc019","content":"new post created by shashank","createdAt":"2025-02-20T09:01:16.014Z","mediaIds":[],"updatedAt":"2025-02-20T09:01:16.014Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T09:01:16.055Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:01:20.077Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:01:20.078Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:01:25.378Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:01:25.379Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:01:27.197Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:01:27.198Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:02:25.934Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:02:25.968Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:02:27.674Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:02:27.675Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:02:32.047Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:02:32.047Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:02:35.613Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:02:35.614Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:02:36.802Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:02:36.803Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:04:25.114Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:04:25.158Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:04:43.697Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:04:43.735Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:04:54.602Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:04:54.638Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:04:57.051Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:04:57.094Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:05:23.177Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:05:23.252Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:05:26.370Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:05:26.404Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:05:28.474Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:05:28.507Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:05:39.109Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:05:39.198Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:05:58.616Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:05:58.709Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:06:10.520Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:06:10.603Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:06:18.394Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:06:18.486Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:07:36.010Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:07:36.053Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:07:42.398Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:07:42.474Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:08:13.174Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:08:13.275Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:08:43.458Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:08:43.495Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:08:54.108Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:08:54.144Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:08:59.027Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:08:59.064Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:14.478Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:14.512Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:17.259Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:17.296Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:22.937Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:22.984Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:44.497Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:44.546Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:47.787Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:47.831Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:09:56.904Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:09:56.939Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:10:26.016Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:10:26.065Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:10:29.147Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:10:29.201Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:10:44.707Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:10:44.777Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:10:52.770Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:10:52.805Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:11:01.653Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:11:01.727Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:11:11.935Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:11:12.025Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:12:34.564Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:12:34.602Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:12:40.761Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:12:40.810Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:12:48.244Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:12:48.290Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:12:55.020Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:12:55.058Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:13:01.617Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:13:01.663Z"}
+{"level":"info","message":"Received GET request to /api/posts/67b6de40a82446b681f3b816","service":"post-service","timestamp":"2025-02-20T09:14:11.184Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:14:11.189Z"}
+{"level":"info","message":"Received GET request to /api/posts/67b6de2aa82446b681f3b814","service":"post-service","timestamp":"2025-02-20T09:14:28.461Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:14:28.462Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:19:24.238Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:19:24.292Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:19:38.432Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:19:38.476Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:19:59.021Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:19:59.062Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:21:13.823Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:21:13.887Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:21:38.575Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:21:38.622Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:22:19.943Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:22:19.984Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:23:15.277Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:23:15.315Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:24:00.485Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:24:00.831Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:24:04.445Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:24:04.534Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:24:42.394Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:24:42.527Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:25:16.512Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:25:16.590Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:25:36.075Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:25:36.191Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:25:47.090Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:25:47.227Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:25:54.628Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:25:54.781Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:27:26.128Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:27:26.143Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:27:53.998Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:27:54.013Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:28:20.078Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:28:20.083Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:28:36.342Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:28:36.351Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:28:51.719Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:28:51.720Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:28:58.941Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:28:58.942Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:29:53.696Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:29:53.696Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T09:30:11.570Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T09:30:11.615Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:30:13.735Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:13.736Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed6bc1bb4b906c009b31","service":"post-service","timestamp":"2025-02-20T09:30:20.759Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:20.760Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:30:29.516Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:29.517Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b6ed5ac1bb4b906c009b2f","service":"post-service","timestamp":"2025-02-20T09:30:43.389Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:43.391Z"}
+{"level":"info","message":"Received GET request to /api/posts/67b6ed5ac1bb4b906c009b2f","service":"post-service","timestamp":"2025-02-20T09:30:54.856Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:54.857Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T09:30:59.041Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T09:30:59.041Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T13:36:50.549Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T13:36:50.623Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T17:48:42.402Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T17:48:42.447Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T17:49:47.584Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:49:47.585Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T17:49:47.587Z"}
+{"0":"\"","1":"m","10":"m","11":"u","12":"s","13":"t","14":" ","15":"b","16":"e","17":" ","18":"a","19":"n","2":"e","20":" ","21":"a","22":"r","23":"r","24":"a","25":"y","3":"d","4":"i","5":"a","6":"I","7":"d","8":"\"","9":" ","level":"warn","message":"Validation error","service":"post-service","timestamp":"2025-02-20T17:49:47.598Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T17:50:04.891Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:50:04.892Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T17:50:04.894Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b76b4c66b5d1f8286b1cd2","content":"new post created with image","createdAt":"2025-02-20T17:50:04.904Z","mediaIds":[],"updatedAt":"2025-02-20T17:50:04.904Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b76b4c66b5d1f8286b1cd2","content":"new post created with image","createdAt":"2025-02-20T17:50:04.904Z","mediaIds":[],"updatedAt":"2025-02-20T17:50:04.904Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T17:50:04.936Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T17:50:20.072Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:50:20.073Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T17:50:43.800Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:50:43.801Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T17:50:43.802Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b76b7366b5d1f8286b1cd6","content":"new post created with image","createdAt":"2025-02-20T17:50:43.804Z","mediaIds":[],"updatedAt":"2025-02-20T17:50:43.804Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b76b7366b5d1f8286b1cd6","content":"new post created with image","createdAt":"2025-02-20T17:50:43.804Z","mediaIds":[],"updatedAt":"2025-02-20T17:50:43.804Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T17:50:43.811Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T17:50:51.647Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:50:51.648Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T17:52:47.213Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:52:47.213Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T17:52:47.215Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b76bef66b5d1f8286b1cda","content":"new post created with image","createdAt":"2025-02-20T17:52:47.217Z","mediaIds":[],"updatedAt":"2025-02-20T17:52:47.217Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b76bef66b5d1f8286b1cda","content":"new post created with image","createdAt":"2025-02-20T17:52:47.217Z","mediaIds":[],"updatedAt":"2025-02-20T17:52:47.217Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T17:52:47.226Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T17:52:52.682Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T17:52:52.683Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:06:41.338Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:06:41.435Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:06:49.501Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:06:49.578Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:08:11.706Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:08:11.848Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:08:30.410Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:08:30.512Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:09:03.929Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:09:04.008Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T18:10:30.717Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:10:30.720Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T18:10:30.725Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b770169606bc5cbe36336f","content":"new post created with image","createdAt":"2025-02-20T18:10:30.787Z","mediaIds":[],"updatedAt":"2025-02-20T18:10:30.787Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b770169606bc5cbe36336f","content":"new post created with image","createdAt":"2025-02-20T18:10:30.787Z","mediaIds":[],"updatedAt":"2025-02-20T18:10:30.787Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T18:10:30.826Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:10:48.069Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:10:48.070Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:12:00.702Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:12:00.794Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T18:12:05.344Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:12:05.346Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T18:12:05.349Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b770750b11364c7053fa8c","content":"new post created with image","createdAt":"2025-02-20T18:12:05.392Z","mediaIds":[],"updatedAt":"2025-02-20T18:12:05.392Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b770750b11364c7053fa8c","content":"new post created with image","createdAt":"2025-02-20T18:12:05.392Z","mediaIds":[],"updatedAt":"2025-02-20T18:12:05.392Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T18:12:05.434Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T18:12:49.728Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:12:49.729Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T18:12:49.730Z"}
+{"0":"\"","1":"m","10":" ","11":"i","12":"s","13":" ","14":"n","15":"o","16":"t","17":" ","18":"a","19":"l","2":"e","20":"l","21":"o","22":"w","23":"e","24":"d","3":"d","4":"i","5":"a","6":"I","7":"d","8":"s","9":"\"","level":"warn","message":"Validation error","service":"post-service","timestamp":"2025-02-20T18:12:49.734Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:13:04.677Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:13:04.811Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:13:22.280Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:13:22.361Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-20T18:13:30.568Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-20T18:13:30.671Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T18:13:40.539Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:13:40.541Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T18:13:40.544Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b770d4e55c6217d3e7a72c","content":"new post created with image","createdAt":"2025-02-20T18:13:40.581Z","mediaIds":["67b76a231540d6de3ef72ee6"],"updatedAt":"2025-02-20T18:13:40.581Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b770d4e55c6217d3e7a72c","content":"new post created with image","createdAt":"2025-02-20T18:13:40.581Z","mediaIds":["67b76a231540d6de3ef72ee6"],"updatedAt":"2025-02-20T18:13:40.581Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T18:13:40.618Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-20T18:15:53.053Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:15:53.054Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-20T18:15:53.056Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b77159e55c6217d3e7a72e","content":"new post created with image","createdAt":"2025-02-20T18:15:53.060Z","mediaIds":["67b76a231540d6de3ef72ee6"],"updatedAt":"2025-02-20T18:15:53.060Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b77159e55c6217d3e7a72e","content":"new post created with image","createdAt":"2025-02-20T18:15:53.060Z","mediaIds":["67b76a231540d6de3ef72ee6"],"updatedAt":"2025-02-20T18:15:53.060Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-20T18:15:53.068Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:15:57.184Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:15:57.185Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:42:39.818Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:42:39.820Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:47:48.479Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:47:48.481Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:48:00.874Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:48:00.876Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-20T18:48:12.660Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T18:48:12.661Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T09:47:02.782Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T09:47:02.815Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T09:47:55.859Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T09:47:55.860Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T09:48:41.288Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T09:48:41.289Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T09:48:42.679Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T09:48:42.679Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T09:48:44.079Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T09:48:44.080Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T09:48:45.260Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T09:48:45.261Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:39:53.833Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:39:53.840Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:39:53.850Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:40:18.015Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:40:18.022Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:40:18.031Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:41:58.930Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:41:58.938Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:41:58.945Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq: ","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:44:01.193Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:44:01.199Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:44:01.207Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq: ","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:44:18.759Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:44:18.766Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:44:18.773Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq:","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1121:18)\n    at afterConnectMultiple (node:net:1688:7)","timestamp":"2025-02-21T13:44:44.644Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:44:44.651Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:44:44.660Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T13:48:09.225Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T13:48:09.255Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T13:48:09.259Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:03:36.319Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:03:36.342Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:03:36.347Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:26.808Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:26.902Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:26.909Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:31.925Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:31.953Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:31.957Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:36.526Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:36.594Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:36.599Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:42.047Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:42.070Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:42.074Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:46.836Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:46.859Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:46.863Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:04:54.473Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:04:54.495Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:04:54.499Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:01.015Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:01.037Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:01.041Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:03.377Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:03.395Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:03.399Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:08.228Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:08.255Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:08.259Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:11.906Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:11.930Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:11.936Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:22.015Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:22.090Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:22.100Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:36.916Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:36.956Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:36.965Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:43.427Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:43.505Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:43.514Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:05:53.359Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:05:53.403Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:05:53.411Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:06:04.238Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:06:04.291Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:06:04.301Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:06:13.307Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:06:13.347Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:06:13.358Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:06:53.813Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:06:53.913Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:06:53.921Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:00.699Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:00.787Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:00.796Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:07.659Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:07.698Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:07.706Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:19.765Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:19.853Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:19.863Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:25.113Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:25.187Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:25.197Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:38.999Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:39.083Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:39.101Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:07:49.334Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:07:49.389Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:07:49.398Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:08:19.738Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:08:19.798Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:08:19.808Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:08:34.795Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:08:34.851Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:08:34.860Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:08:48.867Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:08:48.909Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:08:48.919Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:09:02.797Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:09:02.851Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:09:02.864Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:09:11.553Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:09:11.605Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:09:11.616Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:09:31.142Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:09:31.210Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:09:31.220Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:10:04.573Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:10:04.625Z"}
+{"level":"info","message":"Identity service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:10:04.631Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-21T14:23:49.853Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-21T14:23:49.886Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-02-21T14:23:49.890Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T17:20:21.457Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:20:21.460Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-21T17:20:21.463Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b8b5d5c98003a45e17a799","content":"google colab image","createdAt":"2025-02-21T17:20:21.493Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:20:21.493Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b8b5d5c98003a45e17a799","content":"google colab image","createdAt":"2025-02-21T17:20:21.493Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:20:21.493Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-21T17:20:21.520Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T17:20:36.000Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:20:36.001Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b8b5d5c98003a45e17a799","service":"post-service","timestamp":"2025-02-21T17:24:50.125Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:24:50.126Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-02-21T17:24:50.151Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b8b5d5c98003a45e17a799","service":"post-service","timestamp":"2025-02-21T17:34:04.867Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:34:04.868Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T17:34:58.317Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:34:58.321Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-21T17:34:58.328Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b8b942c98003a45e17a79f","content":"google colab image","createdAt":"2025-02-21T17:34:58.368Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:34:58.368Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b8b942c98003a45e17a79f","content":"google colab image","createdAt":"2025-02-21T17:34:58.368Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:34:58.368Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-21T17:34:58.425Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T17:35:34.603Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:35:34.604Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b8b942c98003a45e17a79f","service":"post-service","timestamp":"2025-02-21T17:36:19.249Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:36:19.250Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-02-21T17:36:19.260Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T17:36:26.312Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:36:26.313Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T17:36:34.762Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:36:34.764Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-21T17:36:34.765Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b8b9a2c98003a45e17a7a6","content":"google colab image 1","createdAt":"2025-02-21T17:36:34.772Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:36:34.772Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b8b9a2c98003a45e17a7a6","content":"google colab image 1","createdAt":"2025-02-21T17:36:34.772Z","mediaIds":["67b8b583f70bfdf2bd680bfc"],"updatedAt":"2025-02-21T17:36:34.772Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-21T17:36:34.782Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T17:37:38.055Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:37:38.056Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-21T17:37:38.057Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67b8b9e2c98003a45e17a7a8","content":"error of installation","createdAt":"2025-02-21T17:37:38.063Z","mediaIds":["67b8b9cd05890b548d2e5526"],"updatedAt":"2025-02-21T17:37:38.063Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67b8b9e2c98003a45e17a7a8","content":"error of installation","createdAt":"2025-02-21T17:37:38.063Z","mediaIds":["67b8b9cd05890b548d2e5526"],"updatedAt":"2025-02-21T17:37:38.063Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-21T17:37:38.071Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-21T17:37:45.327Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:37:45.329Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67b8b9e2c98003a45e17a7a8","service":"post-service","timestamp":"2025-02-21T17:38:01.017Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T17:38:01.019Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-02-21T17:38:01.026Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T13:50:49.369Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T13:50:49.388Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-02-23T13:50:49.394Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T13:54:48.063Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T13:54:48.065Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T13:54:48.077Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T13:54:48.242Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb28a895f7dae8483a550d","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:54:48.186Z","mediaIds":[],"updatedAt":"2025-02-23T13:54:48.186Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb28a895f7dae8483a550d","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:54:48.186Z","mediaIds":[],"updatedAt":"2025-02-23T13:54:48.186Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T13:54:48.251Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T13:57:27.153Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T13:57:27.155Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T13:57:27.156Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T13:57:27.166Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb294795f7dae8483a550f","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:57:27.159Z","mediaIds":[],"updatedAt":"2025-02-23T13:57:27.159Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb294795f7dae8483a550f","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:57:27.159Z","mediaIds":[],"updatedAt":"2025-02-23T13:57:27.159Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T13:57:27.170Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T13:58:45.706Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T13:58:45.707Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T13:58:45.709Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T13:58:45.719Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb299595f7dae8483a5511","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:58:45.713Z","mediaIds":[],"updatedAt":"2025-02-23T13:58:45.713Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb299595f7dae8483a5511","content":"new post creating after implementing search service","createdAt":"2025-02-23T13:58:45.713Z","mediaIds":[],"updatedAt":"2025-02-23T13:58:45.713Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T13:58:45.721Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:00:49.670Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:00:49.671Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:00:49.672Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:00:49.689Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2a1195f7dae8483a5513","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:00:49.674Z","mediaIds":[],"updatedAt":"2025-02-23T14:00:49.674Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2a1195f7dae8483a5513","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:00:49.674Z","mediaIds":[],"updatedAt":"2025-02-23T14:00:49.674Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:00:49.691Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:02:07.711Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:02:07.712Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:02:07.713Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:02:07.746Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2a5f95f7dae8483a5515","content":"new post creating after implementing search service 1","createdAt":"2025-02-23T14:02:07.716Z","mediaIds":[],"updatedAt":"2025-02-23T14:02:07.716Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2a5f95f7dae8483a5515","content":"new post creating after implementing search service 1","createdAt":"2025-02-23T14:02:07.716Z","mediaIds":[],"updatedAt":"2025-02-23T14:02:07.716Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:02:07.747Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:02:15.359Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:02:15.359Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:02:15.360Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:02:15.365Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2a6795f7dae8483a5517","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:02:15.362Z","mediaIds":[],"updatedAt":"2025-02-23T14:02:15.362Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2a6795f7dae8483a5517","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:02:15.362Z","mediaIds":[],"updatedAt":"2025-02-23T14:02:15.362Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:02:15.367Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-23T14:08:13.413Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:08:13.413Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67bb2a6795f7dae8483a5517","service":"post-service","timestamp":"2025-02-23T14:08:31.154Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:08:31.155Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-02-23T14:08:31.167Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67bb2a6795f7dae8483a5517","service":"post-service","timestamp":"2025-02-23T14:10:52.983Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:10:52.984Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:11:22.231Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:11:22.232Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:11:22.233Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:11:22.238Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2c8a95f7dae8483a551d","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:11:22.235Z","mediaIds":[],"updatedAt":"2025-02-23T14:11:22.235Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2c8a95f7dae8483a551d","content":"new post creating after implementing search service 2","createdAt":"2025-02-23T14:11:22.235Z","mediaIds":[],"updatedAt":"2025-02-23T14:11:22.235Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:11:22.240Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-02-23T14:12:17.867Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:12:17.867Z"}
+{"level":"info","message":"Received DELETE request to /api/posts/67bb2c8a95f7dae8483a551d","service":"post-service","timestamp":"2025-02-23T14:12:31.793Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:12:31.793Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-02-23T14:12:31.797Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:18:55.768Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:18:55.769Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:18:55.769Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:18:55.775Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2e4f95f7dae8483a5522","content":"second","createdAt":"2025-02-23T14:18:55.771Z","mediaIds":[],"updatedAt":"2025-02-23T14:18:55.771Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2e4f95f7dae8483a5522","content":"second","createdAt":"2025-02-23T14:18:55.771Z","mediaIds":[],"updatedAt":"2025-02-23T14:18:55.771Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:18:55.777Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-23T14:19:02.319Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:19:02.320Z"}
+{"level":"info","message":"create post endpoint hit.","service":"post-service","timestamp":"2025-02-23T14:19:02.321Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-02-23T14:19:02.329Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"67bb2e5695f7dae8483a5524","content":"third","createdAt":"2025-02-23T14:19:02.324Z","mediaIds":[],"updatedAt":"2025-02-23T14:19:02.324Z","user":"67b5aa1579f0f7b5aa11aedd"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"67bb2e5695f7dae8483a5524","content":"third","createdAt":"2025-02-23T14:19:02.324Z","mediaIds":[],"updatedAt":"2025-02-23T14:19:02.324Z","user":"67b5aa1579f0f7b5aa11aedd"},"level":"info","message":"Post created successfully.","service":"post-service","timestamp":"2025-02-23T14:19:02.332Z"}

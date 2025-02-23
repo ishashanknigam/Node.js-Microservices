@@ -1,0 +1,135 @@
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T13:52:01.641Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T13:52:01.687Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T13:52:01.704Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T13:57:07.773Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T13:57:07.790Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T13:57:07.803Z"}
+{"level":"error","message":"Error handling post creation event Search is not defined","service":"post-service","stack":"ReferenceError: Search is not defined\n    at handlePostCreated (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\src\\eventHandler\\search-event-handlers.js:6:27)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\src\\utils\\rabbitmq.js:38:7\n    at Channel.dispatchMessage (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:485:14)\n    at Channel.handleDelivery (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:494:17)\n    at Channel.emit (node:events:518:28)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:391:10\n    at Channel.content [as handleMessage] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:444:9)\n    at Channel.acceptMessageFrame (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:228:33)\n    at Channel.accept (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\channel.js:298:19)\n    at Connection.mainAccept [as accept] (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\amqplib\\lib\\connection.js:579:33)","timestamp":"2025-02-23T13:57:27.171Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T13:58:36.828Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T13:58:36.850Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T13:58:36.861Z"}
+{"level":"info","message":"Search post created: 67bb299595f7dae8483a5511, 67bb29952ad8bbb1847f0604","service":"post-service","timestamp":"2025-02-23T13:58:45.762Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:00:20.638Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:00:20.668Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:00:20.711Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.searches index: userId_1 dup key: { userId: \"67b5aa1579f0f7b5aa11aedd\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67b5aa1579f0f7b5aa11aedd"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67b5aa1579f0f7b5aa11aedd"},"level":"error","message":"Error handling post creation event E11000 duplicate key error collection: test.searches index: userId_1 dup key: { userId: \"67b5aa1579f0f7b5aa11aedd\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: test.searches index: userId_1 dup key: { userId: \"67b5aa1579f0f7b5aa11aedd\" }\n    at InsertOneOperation.execute (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async tryOperation (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n    at async executeOperation (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async Collection.insertOne (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongodb\\lib\\collection.js:157:16)","timestamp":"2025-02-23T14:00:49.723Z"}
+{"level":"info","message":"Search post created: 67bb2a5f95f7dae8483a5515, 67bb2a5fcab4c9dc3045f4dd","service":"post-service","timestamp":"2025-02-23T14:02:07.772Z"}
+{"level":"info","message":"Search post created: 67bb2a6795f7dae8483a5517, 67bb2a67cab4c9dc3045f4df","service":"post-service","timestamp":"2025-02-23T14:02:15.373Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:04:27.350Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:04:27.395Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:04:27.432Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:04:27.485Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:04:36.736Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:04:36.765Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:04:36.794Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:04:36.819Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:06.260Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:06.287Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:06.305Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:06.322Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:25.858Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:25.882Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:25.898Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:25.912Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:37.488Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:39.650Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:39.670Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:39.689Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:39.698Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:44.560Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:44.585Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:44.609Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:44.618Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:50.792Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:50.878Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:50.905Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:50.947Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:05:54.635Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:05:54.663Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:05:54.699Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:05:54.713Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:07.681Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:07.718Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:07.736Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:07.752Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:16.537Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:16.592Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:16.620Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:16.656Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:22.373Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:22.391Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:22.411Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:22.422Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:31.904Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:31.935Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:31.962Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:31.982Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:44.836Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:44.870Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:44.895Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:44.912Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:49.721Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:49.744Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:49.763Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:49.771Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:06:55.404Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:06:55.429Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:06:55.454Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:06:55.470Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:07:01.302Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:07:01.327Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:07:01.343Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:07:01.354Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:07:11.905Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:07:11.930Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:07:11.953Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:07:11.971Z"}
+{"_message":"Search validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"createdAt":{"kind":"required","message":"Path `createdAt` is required.","name":"ValidatorError","path":"createdAt","properties":{"message":"Path `createdAt` is required.","path":"createdAt","type":"required"}}},"level":"error","message":"Error handling post creation event Search validation failed: content: Path `content` is required., createdAt: Path `createdAt` is required.","service":"post-service","stack":"ValidationError: Search validation failed: content: Path `content` is required., createdAt: Path `createdAt` is required.\n    at Document.invalidate (C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at C:\\Users\\91639\\Desktop\\NODE.js 2025\\social-media-microservices\\search-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-02-23T14:08:31.192Z"}
+{"level":"info","message":"Search post created: 67bb2c8a95f7dae8483a551d, 67bb2c8a80bb37cc3c63af8e","service":"post-service","timestamp":"2025-02-23T14:11:22.252Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:12:08.082Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:12:08.104Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:12:08.126Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:12:11.953Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:12:12.060Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:12:12.113Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:12:12.126Z"}
+{"level":"info","message":"Search post deleted: 67bb2c8a95f7dae8483a551d","service":"post-service","timestamp":"2025-02-23T14:12:31.820Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:17:47.211Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:17:47.244Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:17:47.269Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:17:47.288Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:17:53.716Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:17:53.749Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:17:53.763Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:17:53.781Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:17:59.266Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:17:59.287Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:17:59.303Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:17:59.315Z"}
+{"level":"info","message":"","service":"post-service","timestamp":"2025-02-23T14:17:59.321Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:18:07.122Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:18:07.153Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:18:07.168Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:18:07.232Z"}
+{"level":"info","message":"Search sevice","service":"post-service","timestamp":"2025-02-23T14:18:07.244Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:18:11.292Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:18:11.317Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:18:11.328Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:18:11.356Z"}
+{"level":"info","message":"Search sevice is running,","service":"post-service","timestamp":"2025-02-23T14:18:11.360Z"}
+{"level":"info","message":"Connected to DB","service":"post-service","timestamp":"2025-02-23T14:18:18.365Z"}
+{"level":"info","message":"Connected to rabbit mq.","service":"post-service","timestamp":"2025-02-23T14:18:18.462Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-23T14:18:18.533Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-23T14:18:18.582Z"}
+{"level":"info","message":"Search sevice is running, 3004","service":"post-service","timestamp":"2025-02-23T14:18:18.588Z"}
+{"level":"info","message":"Received GET request to /api/search/posts?query=new","service":"post-service","timestamp":"2025-02-23T14:18:30.406Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:18:30.407Z"}
+{"level":"info","message":"Search endpoint hit...","service":"post-service","timestamp":"2025-02-23T14:18:30.408Z"}
+{"level":"info","message":"Search post created: 67bb2e4f95f7dae8483a5522, 67bb2e4fbed4ac7becfcf586","service":"post-service","timestamp":"2025-02-23T14:18:55.801Z"}
+{"level":"info","message":"Search post created: 67bb2e5695f7dae8483a5524, 67bb2e56bed4ac7becfcf588","service":"post-service","timestamp":"2025-02-23T14:19:02.340Z"}
+{"level":"info","message":"Received GET request to /api/search/posts?query=second","service":"post-service","timestamp":"2025-02-23T14:19:13.949Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:19:13.950Z"}
+{"level":"info","message":"Search endpoint hit...","service":"post-service","timestamp":"2025-02-23T14:19:13.951Z"}
+{"level":"info","message":"Received GET request to /api/search/posts?query=hello","service":"post-service","timestamp":"2025-02-23T14:19:18.033Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-23T14:19:18.033Z"}
+{"level":"info","message":"Search endpoint hit...","service":"post-service","timestamp":"2025-02-23T14:19:18.034Z"}
